@@ -1,0 +1,2 @@
+I have developed an interactive stopwatch web application as part of my Web Development Internship at Prodigy InfoTech. Using HTML, CSS, and JavaScript, the application features start, pause, reset, and lap-time functionalities, allowing users to measure time intervals accurately. Styled with a modern gradient circle design and a responsive layout, the stopwatch is intuitive and user-friendly. This project enhanced my skills in DOM manipulation, event handling, and creating visually appealing, functional web applications.
+
